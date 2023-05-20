@@ -10,6 +10,6 @@
 
 * A zajtalan és robbanásmentes biztonsági gyufát 1836-ban a magyar **Irinyi János** szabadalmaztatta még vegyészhallgató korában. Találmányát és a gyártási jogokat eladta **Rómer István** bécsi gyógyszerésznek, akivel ennek kapcsán barátságot kötötött.
 
-⋅⋅⋅![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a3/Streichholz.JPG "Gyufa")
+  ![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a3/Streichholz.JPG "Gyufa")
 
-Source: (https://hu.wikipedia.org/wiki/Gyufa "Wikipedia")
+Source: https://hu.wikipedia.org/wiki/Gyufa
